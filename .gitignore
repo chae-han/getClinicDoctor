@@ -130,4 +130,5 @@ dmypy.json
 
 
 # custom ignore
-settings/
+python/settings/
+dart/lib/resource/
